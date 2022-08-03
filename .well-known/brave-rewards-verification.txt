@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: kapweb.tk
+Token: 407a0272b0286dbe8a955f5e5be4039863556e2f05b7e6082291d27e9f6523d5
